@@ -1,0 +1,602 @@
+[
+  {
+    "table": 1,
+    "name": "Laura Méndez Soler",
+    "aiUsage": "Pasaría las transcripciones de las reuniones de obra a actas con acuerdos y responsables, y resumiría los hilos de correo largos de Outlook antes de contestar.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 1,
+    "name": "Marc Puig Ferrer",
+    "aiUsage": "Usaría Copilot en Outlook para ordenar mi bandeja de entrada, redactar respuestas a clientes y resumir los correos de seguimiento de cada pedido.",
+    "style": "holograma"
+  },
+  {
+    "table": 1,
+    "name": "Elena Vidal Roca",
+    "aiUsage": "Me ayudaría a revisar contratos largos y sacar los riesgos principales, y a organizar la documentación de cada proyecto en Word y SharePoint.",
+    "style": "vhs"
+  },
+  {
+    "table": 1,
+    "name": "Javier Ortega Ruiz",
+    "aiUsage": "Quiero que la IA tome notas en las reuniones de Teams y me prepare el acta y el correo de seguimiento para todos los asistentes.",
+    "style": "popart"
+  },
+  {
+    "table": 2,
+    "name": "Sonia Castro León",
+    "aiUsage": "Consolidaría los datos de ventas de varios Excel y dashboards en una tabla única y prepararía la presentación mensual con la plantilla de la empresa.",
+    "style": "setenta"
+  },
+  {
+    "table": 2,
+    "name": "Pablo Navarro Gil",
+    "aiUsage": "Me gustaría generar los informes de seguimiento de producción desde los CSV del ERP, con gráficos y comentarios de las desviaciones.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 2,
+    "name": "Nuria Serra Pons",
+    "aiUsage": "Usaría Copilot en Excel y Power BI para cruzar datos de seguridad y calidad y montar el informe trimestral para dirección en PowerPoint.",
+    "style": "holograma"
+  },
+  {
+    "table": 2,
+    "name": "Andrés Molina Paz",
+    "aiUsage": "Revisaría las cifras de los partes de horas que vienen con errores y prepararía una presentación clara con los indicadores del mes.",
+    "style": "vhs"
+  },
+  {
+    "table": 3,
+    "name": "Carla Ibáñez Mora",
+    "aiUsage": "Tengo una petición que me funciona para redactar ofertas y quiero convertirla en una herramienta que use todo mi equipo, con plantilla y ejemplos.",
+    "style": "popart"
+  },
+  {
+    "table": 3,
+    "name": "Óscar Lozano Vega",
+    "aiUsage": "Crearía skills con instrucciones y plantillas de salida para que mi equipo haga siempre igual la conciliación de facturas y la compartiría con ellos.",
+    "style": "setenta"
+  },
+  {
+    "table": 3,
+    "name": "Irene Campos Duran",
+    "aiUsage": "Quiero montar proyectos de Claude con nuestras instrucciones de calidad para que cualquiera del equipo obtenga respuestas con el mismo formato.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 3,
+    "name": "David Romero Sanz",
+    "aiUsage": "Convertiría mis mejores prompts en herramientas reutilizables para el departamento, probándolas con casos nuevos antes de compartirlas.",
+    "style": "holograma"
+  },
+  {
+    "table": 4,
+    "name": "Lucía Herrera Gómez",
+    "aiUsage": "Construiría una pequeña web app para calcular el material necesario por metro cuadrado a partir de las medidas de la obra.",
+    "style": "vhs"
+  },
+  {
+    "table": 4,
+    "name": "Sergi Martí Vall",
+    "aiUsage": "Quiero programar con Claude Code una página web que compare nuestros sistemas de encofrado y genere un informe en PDF para el cliente.",
+    "style": "popart"
+  },
+  {
+    "table": 4,
+    "name": "Marta Rubio Cano",
+    "aiUsage": "Usaría la IA para desarrollar herramientas internas en HTML y JavaScript, como un configurador de pedidos sencillo para comerciales.",
+    "style": "setenta"
+  },
+  {
+    "table": 4,
+    "name": "Raquel Fuentes Prieto",
+    "aiUsage": "Me gustaría crear aplicaciones de una página a partir de una especificación, por ejemplo una calculadora de cargas para el equipo técnico.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 5,
+    "name": "Hugo Delgado Ramos",
+    "aiUsage": "Digitalizaría las hojas manuscritas del patio haciendo fotos y pasándolas a una tabla de Excel sin tener que teclearlas a mano.",
+    "style": "holograma"
+  },
+  {
+    "table": 5,
+    "name": "Paula Esteve Bosch",
+    "aiUsage": "Automatizaría la lectura de la carpeta de albaranes: extraer los campos, consolidarlos en Excel y generar el aviso de incidencias.",
+    "style": "vhs"
+  },
+  {
+    "table": 5,
+    "name": "Iván Cortés Blanco",
+    "aiUsage": "Quiero encadenar pasos para procesar los partes escaneados de cada semana y dejar los datos listos en una hoja sin trabajo manual.",
+    "style": "popart"
+  },
+  {
+    "table": 5,
+    "name": "Alba Medina Torres",
+    "aiUsage": "Usaría la IA con imágenes para leer fotos de documentos de entrega y archivarlos automáticamente en las carpetas correctas.",
+    "style": "setenta"
+  },
+  {
+    "table": 1,
+    "name": "Rosa Aguilar Prieto",
+    "aiUsage": "Me gustaría que la IA redactara el acta de la reunión semanal de planta con los acuerdos, los responsables y las fechas, a partir de la grabación de Teams.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 1,
+    "name": "Ignacio Benítez Lara",
+    "aiUsage": "Usaría Copilot en Outlook para resumir los hilos de correo con clientes que tienen más de veinte mensajes y proponerme una respuesta clara.",
+    "style": "holograma"
+  },
+  {
+    "table": 1,
+    "name": "Marina Sáez Vidal",
+    "aiUsage": "Quiero que la IA revise los contratos de alquiler de equipos y me marque las cláusulas de penalización y los plazos que debo vigilar.",
+    "style": "vhs"
+  },
+  {
+    "table": 1,
+    "name": "Tomás Herrero Plaza",
+    "aiUsage": "Pasaría las notas de las visitas de obra a un resumen ordenado y enviaría a cada responsable un correo con sus tareas pendientes.",
+    "style": "popart"
+  },
+  {
+    "table": 1,
+    "name": "Beatriz Lorenzo Cruz",
+    "aiUsage": "Me ayudaría a clasificar el correo entrante del departamento, archivar los documentos adjuntos en la carpeta correcta y avisarme de lo urgente.",
+    "style": "setenta"
+  },
+  {
+    "table": 1,
+    "name": "Joaquín Pastor Méndez",
+    "aiUsage": "Usaría la IA en Word para comparar dos versiones de un contrato marco y resumir qué ha cambiado y qué riesgos introduce.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 1,
+    "name": "Natalia Rey Fuster",
+    "aiUsage": "Querría que Copilot preparara el orden del día de los comités a partir de los correos de la semana y luego redactara el acta con los acuerdos.",
+    "style": "holograma"
+  },
+  {
+    "table": 1,
+    "name": "Daniel Ibarra Soto",
+    "aiUsage": "Usaría Claude para leer pliegos y contratos largos y sacar un resumen de obligaciones, plazos de entrega y riesgos para el equipo comercial.",
+    "style": "vhs"
+  },
+  {
+    "table": 1,
+    "name": "Cristina Vallés Nieto",
+    "aiUsage": "Me gustaría contestar más rápido los correos repetitivos de proveedores con borradores que la IA prepare en Outlook y yo solo revise.",
+    "style": "popart"
+  },
+  {
+    "table": 1,
+    "name": "Héctor Gallardo Peña",
+    "aiUsage": "Tomaría notas automáticas en las reuniones de Teams con el cliente y enviaría al final un resumen con los compromisos de cada parte.",
+    "style": "setenta"
+  },
+  {
+    "table": 1,
+    "name": "Silvia Moya Carrasco",
+    "aiUsage": "Ordenaría la documentación de cada obra: la IA leería los documentos, les pondría nombre según nuestra norma y los dejaría en su carpeta.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 1,
+    "name": "Rubén Esteban Lago",
+    "aiUsage": "Quiero que la IA me prepare cada lunes un resumen de los correos importantes de la semana anterior con lo que aún está sin contestar.",
+    "style": "holograma"
+  },
+  {
+    "table": 1,
+    "name": "Eva Montero Ríos",
+    "aiUsage": "Usaría Copilot en Word para redactar cartas y comunicados formales a partir de unas pocas notas y revisar el tono antes de enviarlos.",
+    "style": "vhs"
+  },
+  {
+    "table": 2,
+    "name": "Alberto Sanz Varela",
+    "aiUsage": "Juntaría los Excel de ventas de cada delegación en una tabla única y la IA me prepararía la presentación mensual con los comentarios de desviaciones.",
+    "style": "popart"
+  },
+  {
+    "table": 2,
+    "name": "Lorena Pascual Gil",
+    "aiUsage": "Usaría Copilot en Power BI para explicar en texto qué ha cambiado en los indicadores de producción respecto al mes anterior.",
+    "style": "setenta"
+  },
+  {
+    "table": 2,
+    "name": "Francisco Marín Toledo",
+    "aiUsage": "Me gustaría convertir los CSV que exporta el ERP en un informe de seguimiento de obra en plantilla Alsina, con gráficos y conclusiones.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 2,
+    "name": "Inés Caballero Duque",
+    "aiUsage": "Quiero que la IA revise las cifras del cuadro de mando antes de enviarlo a dirección y me avise si algún total no cuadra.",
+    "style": "holograma"
+  },
+  {
+    "table": 2,
+    "name": "Gonzalo Arias Mesa",
+    "aiUsage": "Prepararía con la IA las diapositivas del comité trimestral consolidando los datos de calidad, seguridad y entregas de varias fuentes.",
+    "style": "vhs"
+  },
+  {
+    "table": 2,
+    "name": "Teresa Vicente Ramos",
+    "aiUsage": "Usaría Copilot en Excel para cruzar las horas imputadas con el presupuesto de cada proyecto y explicar las desviaciones más grandes.",
+    "style": "popart"
+  },
+  {
+    "table": 2,
+    "name": "Pedro Bravo Alonso",
+    "aiUsage": "Me ayudaría a pasar los dashboards de logística a un resumen semanal en Word con las incidencias y los datos clave comparados.",
+    "style": "setenta"
+  },
+  {
+    "table": 2,
+    "name": "Mónica Lozano Ferrer",
+    "aiUsage": "Quiero generar automáticamente el informe de cierre de mes juntando los datos de compras, stock y facturación en una sola presentación.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 2,
+    "name": "Jaime Rubio Navas",
+    "aiUsage": "Usaría la IA para comprobar que los datos de los informes de seguridad coinciden con los partes originales y redactar el comentario de tendencias.",
+    "style": "holograma"
+  },
+  {
+    "table": 2,
+    "name": "Clara Domínguez Vera",
+    "aiUsage": "Consolidaría las encuestas de satisfacción de clientes de todos los países en una tabla y la IA me prepararía las conclusiones para la presentación.",
+    "style": "vhs"
+  },
+  {
+    "table": 2,
+    "name": "Ricardo Pons Medina",
+    "aiUsage": "Me gustaría que la IA montara las presentaciones de seguimiento de proyectos a partir de varias hojas de cálculo, siempre con la plantilla corporativa.",
+    "style": "popart"
+  },
+  {
+    "table": 2,
+    "name": "Ana Belén Ruiz Soler",
+    "aiUsage": "Usaría Copilot en Power BI y Excel para preparar el informe de productividad por planta y explicar por qué sube o baja cada indicador.",
+    "style": "setenta"
+  },
+  {
+    "table": 2,
+    "name": "Víctor Calvo Ortiz",
+    "aiUsage": "Quiero unir los datos de mantenimiento de varias plantas en un informe único con gráficos y una explicación de las averías más repetidas.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 3,
+    "name": "Patricia Nieto Salas",
+    "aiUsage": "Tengo una petición que funciona muy bien para revisar ofertas y quiero convertirla en un proyecto de Claude que use todo el departamento comercial.",
+    "style": "holograma"
+  },
+  {
+    "table": 3,
+    "name": "Emilio Fajardo Rivas",
+    "aiUsage": "Crearía una skill con nuestras instrucciones y ejemplos para redactar fichas técnicas de producto siempre con el mismo formato.",
+    "style": "vhs"
+  },
+  {
+    "table": 3,
+    "name": "Rocío Cano Barrios",
+    "aiUsage": "Quiero que mi equipo comparta un proyecto de Claude con la normativa interna y plantillas, para que todos respondan las consultas igual.",
+    "style": "popart"
+  },
+  {
+    "table": 3,
+    "name": "Adrián Molina Torres",
+    "aiUsage": "Convertiría el prompt que uso para conciliar facturas en una herramienta con plantilla de salida y la probaría con casos nuevos antes de compartirla.",
+    "style": "setenta"
+  },
+  {
+    "table": 3,
+    "name": "Lidia Ferrer Costa",
+    "aiUsage": "Me gustaría preparar una skill que redacte informes de incidencias con nuestras secciones fijas, ejemplos buenos y una lista de comprobación.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 3,
+    "name": "Sergio Bermejo Gil",
+    "aiUsage": "Montaría un proyecto de Claude con las especificaciones de nuestros sistemas de encofrado para que el equipo técnico conteste dudas de clientes.",
+    "style": "holograma"
+  },
+  {
+    "table": 3,
+    "name": "Verónica Prado Luna",
+    "aiUsage": "Quiero estandarizar en una skill la forma de preparar presupuestos para que cualquiera del equipo obtenga el mismo resultado con los mismos datos.",
+    "style": "vhs"
+  },
+  {
+    "table": 3,
+    "name": "Marcos Hidalgo Rey",
+    "aiUsage": "Crearía instrucciones y ejemplos compartidos para que el equipo de atención al cliente redacte respuestas con nuestro estilo y sin errores.",
+    "style": "popart"
+  },
+  {
+    "table": 3,
+    "name": "Julia Santamaría Paz",
+    "aiUsage": "Pasaría mis mejores peticiones de traducción técnica a un proyecto con glosario propio para que todo el equipo traduzca igual los manuales.",
+    "style": "setenta"
+  },
+  {
+    "table": 3,
+    "name": "Fernando Quintana Mora",
+    "aiUsage": "Me gustaría crear una herramienta reutilizable para revisar planos y listas de material con una plantilla de salida que el equipo pueda usar.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 3,
+    "name": "Elisa Carmona Vidal",
+    "aiUsage": "Quiero documentar en un proyecto de Claude cómo preparamos las licitaciones, con ejemplos, para que los nuevos aprendan rápido y lo hagan igual.",
+    "style": "holograma"
+  },
+  {
+    "table": 3,
+    "name": "Raúl Espinosa Bravo",
+    "aiUsage": "Probaría con casos reales una skill de redacción de ofertas antes de compartirla y la mejoraría con los comentarios del equipo comercial.",
+    "style": "vhs"
+  },
+  {
+    "table": 3,
+    "name": "Carmen Ortega Luque",
+    "aiUsage": "Crearía plantillas de salida y ejemplos para que la IA prepare los informes de visita técnica siempre con el mismo orden y nivel de detalle.",
+    "style": "popart"
+  },
+  {
+    "table": 4,
+    "name": "Pablo Gutiérrez Saez",
+    "aiUsage": "Construiría con Claude Code una calculadora web que diga cuántos puntales y vigas hacen falta para un forjado a partir de sus medidas.",
+    "style": "setenta"
+  },
+  {
+    "table": 4,
+    "name": "Laia Roig Font",
+    "aiUsage": "Quiero hacer una página web sencilla para comparar nuestros sistemas de encofrado según la altura y el tipo de muro del cliente.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 4,
+    "name": "Diego Lozano Cuesta",
+    "aiUsage": "Me gustaría crear una pequeña app interna en HTML para registrar las devoluciones de material y ver el estado de cada una.",
+    "style": "holograma"
+  },
+  {
+    "table": 4,
+    "name": "Irene Vázquez Moreno",
+    "aiUsage": "Usaría los artefactos de Claude para montar prototipos de herramientas web a partir de una especificación antes de pedirlos a informática.",
+    "style": "vhs"
+  },
+  {
+    "table": 4,
+    "name": "Manuel Iglesias Pardo",
+    "aiUsage": "Programaría con la IA una web que calcule el material necesario por metro cuadrado y genere un listado listo para pedir.",
+    "style": "popart"
+  },
+  {
+    "table": 4,
+    "name": "Nerea Soler Campos",
+    "aiUsage": "Quiero desarrollar una herramienta web para que los comerciales configuren una solución de encofrado y vean el precio orientativo al momento.",
+    "style": "setenta"
+  },
+  {
+    "table": 4,
+    "name": "Álvaro Peña Rojas",
+    "aiUsage": "Haría con Claude Code un panel web interno que lea nuestros datos de stock y muestre qué material está disponible en cada almacén.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 4,
+    "name": "Sara Medina Velasco",
+    "aiUsage": "Me gustaría crear aplicaciones de una sola página para tareas del día a día, como un comparador de tarifas de transporte entre proveedores.",
+    "style": "holograma"
+  },
+  {
+    "table": 4,
+    "name": "Guillem Puig Batlle",
+    "aiUsage": "Usaría la IA para programar en JavaScript una calculadora de cargas sobre puntales que ahora hacemos a mano en una hoja de cálculo.",
+    "style": "vhs"
+  },
+  {
+    "table": 4,
+    "name": "Andrea Fuentes Ribas",
+    "aiUsage": "Quiero montar una web app que convierta medidas y unidades de nuestros catálogos entre el sistema métrico y el imperial.",
+    "style": "popart"
+  },
+  {
+    "table": 4,
+    "name": "Óliver Navarro Pinto",
+    "aiUsage": "Desarrollaría con Claude Code una pequeña web para reservar las salas de formación y ver qué cursos hay cada semana.",
+    "style": "setenta"
+  },
+  {
+    "table": 4,
+    "name": "Celia Román Herrera",
+    "aiUsage": "Me gustaría construir una herramienta web que, a partir de una foto del plano y unas medidas, proponga la cantidad de paneles necesarios.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 4,
+    "name": "Enrique Lara Gimeno",
+    "aiUsage": "Programaría una web interna para que el equipo técnico genere fichas de producto en HTML a partir de una plantilla y los datos del catálogo.",
+    "style": "holograma"
+  },
+  {
+    "table": 5,
+    "name": "Noelia Santos Bueno",
+    "aiUsage": "Pasaría las fotos de las hojas de control de calidad escritas a mano a una tabla de Excel sin tener que teclearlas.",
+    "style": "vhs"
+  },
+  {
+    "table": 5,
+    "name": "Javier Cobo Arenas",
+    "aiUsage": "Automatizaría la lectura de las facturas de proveedores que llegan en PDF: extraer importes y fechas y dejarlos en una hoja para contabilidad.",
+    "style": "popart"
+  },
+  {
+    "table": 5,
+    "name": "Gemma Pujol Serra",
+    "aiUsage": "Quiero que la IA lea cada día la carpeta de albaranes escaneados, saque los datos de entrega y avise si falta alguna firma.",
+    "style": "setenta"
+  },
+  {
+    "table": 5,
+    "name": "Ramón Salinas Ortiz",
+    "aiUsage": "Digitalizaría los partes de trabajo del patio haciendo una foto con el móvil y pasándolos a un registro que se pueda consultar.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 5,
+    "name": "Olga Martínez Ruiz",
+    "aiUsage": "Me gustaría encadenar pasos con Cowork: leer los pedidos que llegan por correo, extraer los productos y preparar el documento para logística.",
+    "style": "holograma"
+  },
+  {
+    "table": 5,
+    "name": "Íñigo Echeverría Sanz",
+    "aiUsage": "Usaría la IA con imágenes para leer las placas de identificación de los equipos y actualizar el inventario automáticamente.",
+    "style": "vhs"
+  },
+  {
+    "table": 5,
+    "name": "Pilar Robles Caro",
+    "aiUsage": "Quiero automatizar el proceso de devoluciones: leer el albarán escaneado, comprobar el material recibido y generar el aviso al cliente.",
+    "style": "popart"
+  },
+  {
+    "table": 5,
+    "name": "Antonio José Vera Gil",
+    "aiUsage": "Pasaría a Excel las fichas de inspección de seguridad que hoy rellenamos en papel, a partir de una foto de cada hoja.",
+    "style": "setenta"
+  },
+  {
+    "table": 5,
+    "name": "Rebeca Lucas Molina",
+    "aiUsage": "Me gustaría que una carpeta compartida se procesara sola: cada documento nuevo se lee, se clasifica y sus datos se añaden a una tabla.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 5,
+    "name": "Felipe Garrido Mora",
+    "aiUsage": "Automatizaría la entrada de los tickets de gastos: foto del ticket, lectura del importe y del concepto y registro en la hoja de cada persona.",
+    "style": "holograma"
+  },
+  {
+    "table": 5,
+    "name": "Ainhoa Zubiri Ochoa",
+    "aiUsage": "Quiero digitalizar los registros de temperatura y humedad del almacén que se apuntan a mano y tenerlos en una tabla con avisos.",
+    "style": "vhs"
+  },
+  {
+    "table": 5,
+    "name": "Jesús Paredes Lino",
+    "aiUsage": "Encadenaría pasos para los partes semanales escaneados: extraer las horas de cada operario, consolidarlas en Excel y enviar el resumen a nóminas.",
+    "style": "popart"
+  },
+  {
+    "table": 6,
+    "name": "Marta Gómez Arroyo",
+    "aiUsage": "Usaría la investigación profunda para preparar un informe de los competidores en encofrados en Francia y Portugal, con precios y productos.",
+    "style": "setenta"
+  },
+  {
+    "table": 6,
+    "name": "Xavier Bosch Planas",
+    "aiUsage": "Me gustaría buscar proveedores de madera y tableros en Europa con la IA y tener una tabla comparativa de precios, plazos y certificaciones.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 6,
+    "name": "Lucía Pérez Galán",
+    "aiUsage": "Quiero que la IA me prepare cada semana un informe con las novedades del sector de la construcción y de nuestros competidores.",
+    "style": "holograma"
+  },
+  {
+    "table": 6,
+    "name": "Hugo Castillo Ramos",
+    "aiUsage": "Investigaría con la búsqueda web nuevos mercados en Latinoamérica para nuestros sistemas de apuntalamiento, con datos de obra pública.",
+    "style": "vhs"
+  },
+  {
+    "table": 6,
+    "name": "Alicia Ferrer Ginés",
+    "aiUsage": "Usaría la IA para encontrar proveedores de piezas de acero en Asia, compararlos y resumir sus condiciones de compra y envío.",
+    "style": "popart"
+  },
+  {
+    "table": 6,
+    "name": "Samuel Ríos Pardo",
+    "aiUsage": "Me gustaría que la IA analizara las licitaciones públicas de varios países y me avisara de las que encajan con nuestros productos.",
+    "style": "setenta"
+  },
+  {
+    "table": 6,
+    "name": "Esther Valero Cano",
+    "aiUsage": "Quiero estudiar a fondo cómo trabajan otras empresas del sector con la IA y preparar un informe con ideas que podamos aplicar.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 6,
+    "name": "Martín Solís Rueda",
+    "aiUsage": "Programaría informes semanales con la IA sobre los precios del acero y la madera para anticipar cambios en nuestras compras.",
+    "style": "holograma"
+  },
+  {
+    "table": 6,
+    "name": "Nuria Blanco Ferrán",
+    "aiUsage": "Haría una investigación de mercado sobre la demanda de alquiler de encofrados en Oriente Medio con fuentes y cifras contrastadas.",
+    "style": "vhs"
+  },
+  {
+    "table": 6,
+    "name": "Rafael Domingo Ruiz",
+    "aiUsage": "Me ayudaría a comparar a los principales fabricantes de andamios por país, con su catálogo, presencia comercial y precios orientativos.",
+    "style": "popart"
+  },
+  {
+    "table": 6,
+    "name": "Sofía Cuenca Martí",
+    "aiUsage": "Quiero buscar nuevos proveedores de productos de seguridad para obra y tener una tabla con calidad, precio y tiempo de entrega.",
+    "style": "setenta"
+  },
+  {
+    "table": 6,
+    "name": "Germán Vidal Ortega",
+    "aiUsage": "Usaría la investigación profunda para conocer la normativa de encofrados y seguridad en cada país antes de entrar en un mercado nuevo.",
+    "style": "retrofuturista"
+  },
+  {
+    "table": 6,
+    "name": "Paloma Sierra Núñez",
+    "aiUsage": "Me gustaría que la IA siguiera las noticias de nuestros competidores y me preparara un resumen mensual con sus lanzamientos y obras.",
+    "style": "holograma"
+  },
+  {
+    "table": 6,
+    "name": "Iker Arrieta Goñi",
+    "aiUsage": "Investigaría con la IA nuevas formas de trabajar en otras empresas industriales, como la automatización de almacenes, y sacaría conclusiones.",
+    "style": "vhs"
+  },
+  {
+    "table": 6,
+    "name": "Lorena Gil Montes",
+    "aiUsage": "Quiero preparar con la IA fichas de cada país donde vendemos con tamaño de mercado, competidores principales y tendencias de construcción.",
+    "style": "popart"
+  },
+  {
+    "table": 6,
+    "name": "Bruno Tena Sevilla",
+    "aiUsage": "Buscaría con la IA proveedores alternativos para los componentes que más se retrasan y prepararía una comparación para compras.",
+    "style": "setenta"
+  }
+]
